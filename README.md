@@ -46,13 +46,13 @@ A fan blade attached to the cleaning mechanism creates suction inside a plastic 
 
 ### Robot Prototype
 
-![Model Image](images/model_image.png)
+![Model Image](Images/model_image.png)
 
-![Model Top View](images/model_top_view.png)
+![Model Top View](Images/model_top_view.png)
 
 ### Circuit Diagram
 
-![Circuit Diagram](images/circuit_diagram.png)
+![Circuit Diagram](Images/circuit_diagram.png)
 
 ---
 
